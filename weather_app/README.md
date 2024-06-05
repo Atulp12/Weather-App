@@ -1,16 +1,23 @@
-# weather_app
+# Weather Application
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The Weather App is a Flutter-based application that provides current weather information for any location. By leveraging the OpenWeatherAPI and implementing Clean Architecture principles, this app delivers accurate and up-to-date weather data, including temperature, humidity, and weather conditions.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Fetches current weather data for Nagpur (as of now) using the OpenWeatherAPI.
+- Displays temperature, humidity, and weather conditions.
+- User-friendly interface for searching and viewing weather details.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/Atulp12/Weather-App/assets/107379234/852759ab-e9b5-4bfa-8d62-8d4579891f98" width="150">
+</p>
+
+## Tech Stack
+
+- **Flutter**: UI framework
+- **Dart**: Programming language
+- **OpenWeatherAPI**: Weather data provider
